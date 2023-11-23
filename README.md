@@ -2,7 +2,7 @@
 <h1 align="center">Olá! 👋, Eu sou Emerson Lucirio</h1>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 <h3 align="center">Sou apaixonado por tecnologia Front-end, e no processo do desenvolvimento web!</h3>
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
  &lt;p&gt;Hello, World&lt;/p&gt;&#x1F30E;<br>
             &nbsp;&nbsp;&nbsp;&lt;p&gt;It's not a lack of coffee,&#x2615;<br>
