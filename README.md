@@ -1,10 +1,10 @@
 <h1 align="center">Olá! 👋, Eu sou Emerson Lucirio</h1>
 <h3 align="center">Sou apaixonado por tecnologia Front-end, e no processo do desenvolvimento web</h3>
 
- &lt;p&gt;Hello, World&lt;/p&gt;<br>
+ &lt;p&gt;Hello, World&lt;/p&gt;&#x1F30E;<br>
             &nbsp;&nbsp;&nbsp;&lt;p&gt;It's not a lack of coffee,&#x2615;<br>
           &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; Nor tequila.&#x1F378;<br>
-          &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It's my code,<br>
+          &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It's my code,&#x1F468;&#x200D;&#x1F4BB;<br>
            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Which doesn't compile. &lt;/p&gt;
 
 
@@ -33,11 +33,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emersonlucirio&show_icons=true&locale=en" alt="emersonlucirio" /></p>
 
 
-<!---
-## Olá! Eu sou o Emerson Lucirio 👋
 
-- 🔭 Hoje trabalho com Suporte técnico
-- 🌱 Aprendendo Front-end
-- 😄 Pronouns: Ele/Dele
-- ⚡ Fun fact: HTML, CSS e JAVASCRIPT
---->
+![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+</details>
