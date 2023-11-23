@@ -1,6 +1,14 @@
 <h1 align="center">Olá! 👋, Eu sou Emerson Lucirio</h1>
 <h3 align="center">Sou apaixonado por tecnologia Front-end, e no processo do desenvolvimento web</h3>
 
+<p>Hello, World</p>
+<p>It's not a lack of coffee,☕<br>
+Nor tequila.🍸<br>
+It's my code,<br>
+Which doesn't compile. </p>
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emersonlucirio&label=Profile%20views&color=0e75b6&style=flat" alt="emersonlucirio" /> </p>
 
 - 🌱 Estou aprendendo Front-end **HTML5, CSS3 e JAVASCRIPT**
