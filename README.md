@@ -6,7 +6,7 @@
 
  &lt;p&gt;Hello, World&lt;/p&gt;&#x1F30E;<br>
             &nbsp;&nbsp;&nbsp;&lt;p&gt;It's not a lack of coffee,&#x2615;<br>
-          &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; Nor tequila.&#x1F378;<br>
+          &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; Nor tequila.&#x1F943;<br> 
           &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It's my code,&#x1F468;&#x200D;&#x1F4BB;<br>
            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Which doesn't compile. &lt;/p&gt;
 
