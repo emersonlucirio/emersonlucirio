@@ -1,15 +1,11 @@
 <h1 align="center">Olá! 👋, Eu sou Emerson Lucirio</h1>
 <h3 align="center">Sou apaixonado por tecnologia Front-end, e no processo do desenvolvimento web</h3>
 
-<p>Hello, World</p>
-&nbsp;<p>It's not a lack of coffee,☕<br>
-&nbsp;&nbsp;&nbsp;Nor tequila.🍸<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It's my code,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Which doesn't compile. </p>
-
-
-
-
+ &lt;p&gt;Hello, World&lt;/p&gt;<br>
+            &nbsp;&nbsp;&nbsp;&lt;p&gt;It's not a lack of coffee,&#x2615;<br>
+          &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; Nor tequila.&#x1F378;<br>
+          &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It's my code,<br>
+           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Which doesn't compile. &lt;/p&gt;
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emersonlucirio&label=Profile%20views&color=0e75b6&style=flat" alt="emersonlucirio" /> </p>
