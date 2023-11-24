@@ -9,7 +9,7 @@
 * **Atualmente trabalho com Suporte técnico, em busca constante por conhecimento com<br>foco em front-end, que é minha preferência, e atualmente aprendendo javascript.**
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emersonlucirio&label=Profile%20views&color=0e75b6&style=flat" alt="emersonlucirio" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emersonlucirio&label=Profile%20views&color=05ad75&style=plastic" alt="emersonlucirio" /> </p>
 
 - 🌱 Estou aprendendo **JAVASCRIPT**
 
@@ -30,11 +30,9 @@
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="150">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emersonlucirio&show_icons=true&locale=en&layout=compact" alt="emersonlucirio" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emersonlucirio&show_icons=true&theme=dracula&title_color=ae06d0&text_color=05a87f&locale=en&layout=compact" alt="emersonlucirio" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emersonlucirio&show_icons=true&locale=en" alt="emersonlucirio" /></p>
-
-
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=emersonlucirio&show_icons=true&theme=dracula&title_color=ae06d0&text_color=05a87f&locale=en" alt= "emersonlucirio" /></p>
 
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
