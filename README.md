@@ -1,19 +1,15 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 <h1 align="center">Olá! 👋, Eu sou Emerson Lucirio</h1>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-<h3 align="center">Sou apaixonado por tecnologia Front-end, e no processo do desenvolvimento web!</h3>
+
+* **Sou apaixonado por tecnologia, voltado para front-end, e no processo do desenvolvimento web.**
+ 
+* **Atualmente trabalho com Suporte técnico, em busca constante por conhecimento com<br>foco em front-end, que é minha preferência, e atualmente aprendendo javascript.**
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
- &lt;p&gt;Hello, World&lt;/p&gt;&#x1F30E;<br>
-            &nbsp;&nbsp;&nbsp;&lt;p&gt;It's not a lack of coffee,&#x2615;<br>
-          &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; Nor tequila.&#x1F943;<br> 
-          &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It's my code,&#x1F468;&#x200D;&#x1F4BB;<br>
-           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Which doesn't compile. &lt;/p&gt;
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emersonlucirio&label=Profile%20views&color=0e75b6&style=flat" alt="emersonlucirio" /> </p>
 
-- 🌱 Estou aprendendo Front-end **HTML5, CSS3 e JAVASCRIPT**
+- 🌱 Estou aprendendo **JAVASCRIPT**
 
 - 📫 Meu e-mail para contato: **emerson.lucirio@yahoo.com.br**
 
