@@ -15,7 +15,7 @@
 
 - 📫 Meu e-mail para contato: **emerson.lucirio@yahoo.com.br**
 
-- 📄 Link para meu currículo [https://www.linkedin.com/in/emerson-lucirio-a1109389/](https://www.linkedin.com/in/emerson-lucirio-a1109389/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
