@@ -16,7 +16,6 @@
 - 📫 Meu e-mail para contato: **emerson.lucirio@yahoo.com.br**
 
 
-
 <h3 align="left">Meus contatos:</h3>
 <p align="left">
 <a href="https://codepen.io/emerson-sep1914" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="emerson-sep1914" height="30" width="40" /></a>
@@ -32,6 +31,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emersonlucirio&show_icons=true&theme=dark&title_color=ae06d0&text_color=05a87f&locale=en&layout=compact" alt="emersonlucirio" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emersonlucirio&show_icons=true&theme=dark&title_color=ae06d0&text_color=05a87f&locale=en" alt="emersonlucirio" /></p>
-
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
