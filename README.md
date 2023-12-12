@@ -32,14 +32,13 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emersonlucirio&label=Profile%20views&color=05ad75&style=plastic" alt="emersonlucirio" /> </p>
 
-- 📫 Meu e-mail para contato: **emerson.lucirio@yahoo.com.br**
-
 
 <h3 align="left">Meus contatos:</h3>
 <p align="left">
 <a href="https://codepen.io/emerson-sep1914" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="emerson-sep1914" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/emerson-lucirio-a1109389/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/emerson-lucirio-a1109389/" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/@me" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/@me" height="30" width="40" /></a> 
+<a href="mailto:emerson.lucirio@yahoo.com.br" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="E-Mail" height="48" width="40"/>
 </p>
 
 
