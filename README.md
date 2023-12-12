@@ -4,15 +4,29 @@
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-### Objetivo Profissional:
-* **Estudante entusiasmado de Desenvolvimento Web Front-End em transição de carreira do suporte técnico para a programação. Busco oportunidades para aplicar minha paixão pela resolução de problemas e minha dedicação à excelência no desenvolvimento web. Comprometido em aprender e aplicar habilidades sólidas em HTML5, CSS3 e JavaScript adquiridas por meio de cursos especializados. Ansioso para contribuir em projetos desafiadores e crescer profissionalmente na área de desenvolvimento.**
- 
-### Sobre Mim:
-* Como profissional em transição de carreira do suporte técnico para o desenvolvimento web, estou dedicando meu tempo e energia para adquirir habilidades sólidas em HTML5, CSS3 e JavaScript por meio de cursos práticos. Minha experiência prévia no suporte técnico desenvolveu minhas habilidades analíticas e minha abordagem centrada no cliente, que agora estou integrando na minha jornada de desenvolvimento front-end.
+### 👨🏻‍💻 Sobre Mim
+* 👋 Olá! Sou Emerson Lucirio, um entusiasta de Desenvolvimento Web Front-End em transição de carreira. Vindo do suporte técnico, estou mergulhando no mundo da programação e aprendendo HTML5, CSS3 e JavaScript por meio de cursos práticos.
 
-* Estou entusiasmado com a perspectiva de criar interfaces web atraentes e funcionais, e estou constantemente desafiando a mim mesmo para aprender e aplicar novos conceitos. Minha transição de carreira é impulsionada pelo desejo de explorar minha paixão pela programação e contribuir de maneira significativa para projetos inovadores.
+### 🌱 Atualmente Estudando:
+* HTML5
+* CSS3
+* JAVASCRIPT
 
-* Acredito que minha capacidade de resolver problemas, minha mentalidade pró-ativa e minha vontade de aprender tornam-me um candidato ideal para uma equipe de desenvolvimento web dinâmica. Estou animado com a oportunidade de crescer profissionalmente na área de desenvolvimento e contribuir para soluções impactantes.
+### 💡 Objetivo Profissional:
+* Desenvolver interfaces web atraentes e funcionais.
+* Contribuir para projetos desafiadores.
+* Crescer profissionalmente na área de desenvolvimento.
+
+ ### 🚀 Habilidades:
+ * Resolução de Problemas
+ * Trabalho em Equipe
+ * Aprendizado Rápido
+
+### 🎯 Metas:
+* Construir projetos front-end significativos.
+* Colaborar em ambientes inovadores.
+
+
 <br>
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 <br>
