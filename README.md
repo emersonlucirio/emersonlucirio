@@ -4,11 +4,18 @@
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-* **Sou apaixonado por tecnologia, voltado para front-end, e no processo do desenvolvimento web.**
+### Objetivo Profissional:
+* **Estudante entusiasmado de Desenvolvimento Web Front-End em transição de carreira do suporte técnico para a programação. Busco oportunidades para aplicar minha paixão pela resolução de problemas e minha dedicação à excelência no desenvolvimento web. Comprometido em aprender e aplicar habilidades sólidas em HTML5, CSS3 e JavaScript adquiridas por meio de cursos especializados. Ansioso para contribuir em projetos desafiadores e crescer profissionalmente na área de desenvolvimento.**
  
-* **Atualmente trabalho com Suporte técnico, em busca constante por conhecimento com<br>foco em front-end, que é minha preferência, e atualmente aprendendo javascript.**
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+### Sobre Mim:
+* Como profissional em transição de carreira do suporte técnico para o desenvolvimento web, estou dedicando meu tempo e energia para adquirir habilidades sólidas em HTML5, CSS3 e JavaScript por meio de cursos práticos. Minha experiência prévia no suporte técnico desenvolveu minhas habilidades analíticas e minha abordagem centrada no cliente, que agora estou integrando na minha jornada de desenvolvimento front-end.
 
+* Estou entusiasmado com a perspectiva de criar interfaces web atraentes e funcionais, e estou constantemente desafiando a mim mesmo para aprender e aplicar novos conceitos. Minha transição de carreira é impulsionada pelo desejo de explorar minha paixão pela programação e contribuir de maneira significativa para projetos inovadores.
+
+* Acredito que minha capacidade de resolver problemas, minha mentalidade pró-ativa e minha vontade de aprender tornam-me um candidato ideal para uma equipe de desenvolvimento web dinâmica. Estou animado com a oportunidade de crescer profissionalmente na área de desenvolvimento e contribuir para soluções impactantes.
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emersonlucirio&label=Profile%20views&color=05ad75&style=plastic" alt="emersonlucirio" /> </p>
 
 - 🌱 Estou aprendendo **JAVASCRIPT**
