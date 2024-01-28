@@ -1,4 +1,7 @@
 <p align="center">
+<img src="https://github.com/emersonlucirio/emersonlucirio/assets/112041088/4181152a-5136-448f-9e82-d68aa301e238.gif" width="500" height="250" alt="Aurora Boreal">
+</p>
+<p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h1 align="center">Olá!&nbsp;<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40">&nbsp;Eu sou Emerson Lucirio</h1>
 <p align="center">
