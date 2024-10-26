@@ -38,29 +38,29 @@
 
 <h3 align="left">Meus contatos:</h3>
 <p align="left">
-<a href="https://codepen.io/emerson-sep1914" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="emerson-sep1914" height="34" width="50" /></a>
+<a href="https://codepen.io/emerson-sep1914" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CodePen-Dark.svg" alt="emerson-sep1914" height="40" width="40" /></a>
  &nbsp;
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/emerson-lucirio-a1109389/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/emerson-lucirio-a1109389/" height="34" width="50" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/emerson-lucirio-a1109389/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" alt="https://www.linkedin.com/in/emerson-lucirio-a1109389/" height="40" width="40" /></a>
  &nbsp;
-<a href="https://discord.gg/https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/@me" height="43" width="50" /></a> 
+<a href="https://discord.gg/https://discord.com/channels/@me" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Discord.svg" alt="https://discord.com/channels/@me" height="40" width="40" /></a> 
  &nbsp;
-<a href="mailto:emerson.lucirio@yahoo.com.br" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="E-Mail" height="50" width="46"/>
+<a href="mailto:emerson.lucirio@yahoo.com.br" target="_blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="E-Mail" height="40" width="40"/>
 </p>
 
 
 <h3 align="left">Tecnologias:</h3>
 <p align="left">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" alt="html5" width="50" height="50"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" alt="html5" width="40" height="40"/></a> 
 &nbsp;
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" alt="css3" width="50" height="50"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" alt="css3" width="40" height="40"/></a> 
 &nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="javascript" width="50" height="50"/> </a> 
+<a href="https://www.w3schools.com/mysql/default.asp" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" alt="javascript" width="40" height="40"/></a> 
 &nbsp;
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" alt="git" width="80" height="45"/> </a> 
+<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PyCharm-Dark.svg" width="40" height="40"/></a> 
 &nbsp;
-<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50" height="50"/> </a>
+<a href="https://www.w3schools.com/sql/default.asp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/spencerlepine/developer-svg-logos/14586627edd875fb42445f6c7ded98df42270fd2/logos/sql.svg" width="40" height="40"/></a>
 &nbsp;
-<a href="https://code.visualstudio.com/docs" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50" height="50"/> </a>
+<a href="https://code.visualstudio.com/docs" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" width="40" height="40"/></a>
 </p>
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="150">
