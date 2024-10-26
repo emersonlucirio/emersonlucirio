@@ -8,12 +8,12 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ### 👨🏻‍💻 Sobre Mim
-* 👋 Olá! Sou Emerson Lucirio, um entusiasta de Desenvolvimento Web Front-End em transição de carreira. Vindo do suporte técnico, estou mergulhando no mundo da programação e aprendendo HTML5, CSS3 e JavaScript por meio de cursos práticos.
+* 👋 Olá! Sou Emerson Lucirio, um entusiasta da área de Banco de Dados em transição de carreira. Vindo do suporte técnico, estou mergulhando no mundo dos dados e aprimorando minhas habilidades em modelagem, administração e SQL por meio da minha Graduação em Banco de Dados.
 
 ### 🌱 Atualmente Estudando:
 * **HTML5** (Iniciante)
 * **CSS3** (Iniciante)
-* **JAVASCRIPT** (Aprendendo)
+* **SQL** (Aprendendo)
 
 ### 💡 Objetivo Profissional:
 * Desenvolver interfaces web atraentes e funcionais.
