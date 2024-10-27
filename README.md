@@ -11,9 +11,10 @@
 * 👋 Olá! Sou Emerson Lucirio, um entusiasta da área de Banco de Dados em transição de carreira. Vindo do suporte técnico, estou mergulhando no mundo dos dados e aprimorando minhas habilidades em modelagem, administração e SQL por meio da minha Graduação em Banco de Dados.
 
 ### 🌱 Atualmente Estudando:
-* **HTML5** (Iniciante)
-* **CSS3** (Iniciante)
-* **SQL** (Aprendendo)
+* **SQL** (Iniciante)
+* **MySQL** (Iniciante)
+* **Python para análise de dados** (Aprendendo)
+* **Otimização e Indexação de Consultas** (Aprendendo)
 
 ### 💡 Objetivo Profissional:
 * Gerenciar e otimizar bancos de dados de forma eficiente e escalável.
