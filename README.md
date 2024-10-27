@@ -3,7 +3,7 @@
 </p>
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<h1 align="center">Olá!&nbsp;<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40">&nbsp;Eu sou Emerson Lucirio</h1>
+<h1 align="center">Olá!&nbsp;<img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="45">&nbsp;Eu sou Emerson Lucirio</h1>
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
