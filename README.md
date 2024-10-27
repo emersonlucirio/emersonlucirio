@@ -16,9 +16,9 @@
 * **SQL** (Aprendendo)
 
 ### 💡 Objetivo Profissional:
-* Desenvolver interfaces web atraentes e funcionais.
-* Contribuir para projetos desafiadores.
-* Crescer profissionalmente na área de desenvolvimento.
+* Gerenciar e otimizar bancos de dados de forma eficiente e escalável.
+* Contribuir para projetos desafiadores à administração e análise de dados
+* Crescer profissionalmente na área de Banco de Dados.
 
  ### 🚀 Habilidades:
  * Resolução de Problemas
@@ -26,8 +26,8 @@
  * Aprendizado Rápido
 
 ### 🎯 Metas:
-* Construir projetos front-end significativos.
-* Colaborar em ambientes inovadores.
+* Construir projetos sólidos de modelagem e administração de dados.
+* Colaborar em ambientes inovadores, focados em soluções de dados.
 
 <br>
 
@@ -40,7 +40,7 @@
 <p align="left">
 <a href="https://codepen.io/emerson-sep1914" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CodePen-Dark.svg" alt="emerson-sep1914" height="40" width="40" /></a>
  &nbsp;
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/emerson-lucirio-a1109389/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" alt="https://www.linkedin.com/in/emerson-lucirio-a1109389/" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/emerson-lucirio-a1109389/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" alt="https://www.linkedin.com/in/emerson-lucirio-a1109389/" height="40" width="40" /></a>
  &nbsp;
 <a href="https://discord.gg/https://discord.com/channels/@me" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Discord.svg" alt="https://discord.com/channels/@me" height="40" width="40" /></a> 
  &nbsp;
