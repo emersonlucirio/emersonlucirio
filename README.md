@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/emersonlucirio/emersonlucirio/assets/112041088/4181152a-5136-448f-9e82-d68aa301e238.gif" width="500" height="250" alt="Aurora Boreal">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 </p>
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
