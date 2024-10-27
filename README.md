@@ -2,10 +2,10 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 </p>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="30" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="20" width="100%">
 <h1 align="center">Olá!&nbsp;<img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="45">&nbsp;Eu sou Emerson Lucirio</h1>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="30" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="20" width="100%">
 
 ### 👨🏻‍💻 Sobre Mim
 * 👋 Olá! Sou Emerson Lucirio, um entusiasta da área de Banco de Dados em transição de carreira. Vindo do suporte técnico, estou mergulhando no mundo dos dados e aprimorando minhas habilidades em modelagem, administração e SQL por meio da minha Graduação em Banco de Dados.
