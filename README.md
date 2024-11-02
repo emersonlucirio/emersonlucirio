@@ -59,7 +59,7 @@
 &nbsp;
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PyCharm-Dark.svg" width="40" height="40"/></a> 
 &nbsp;
-<a href="https://www.w3schools.com/sql/default.asp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/spencerlepine/developer-svg-logos/14586627edd875fb42445f6c7ded98df42270fd2/logos/sql.svg" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/sql/default.asp" target="_blank" rel="noreferrer"><img src="https://github.com/gui-bus/TechIcons/raw/main/Light/SQL%20Server.svg" width="40" height="40"/></a>
 &nbsp;
  <a href="https://www.postman.com/," target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Postman.svg" width="40" height="40"/></a>
 &nbsp;
