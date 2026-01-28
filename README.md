@@ -3,7 +3,7 @@
 </p>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="20" width="100%">
-<h1 align="center">Olá!&nbsp;<img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="45">&nbsp;Eu sou Emerson Lucirio</h1>
+<h1 align="center">Olá!&nbsp;<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" width="60">&nbsp;Eu sou Emerson Lucirio</h1>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="20" width="100%">
 
@@ -47,7 +47,7 @@
 </p>
 
 
-<h3 align="left">Tecnologias:</h3>
+<h3 align="left">Tecnologias e Ferramentas:</h3>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://github.com/gui-bus/TechIcons/raw/main/Dark/HTML.svg" alt="html5" width="35" height="35"/></a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/gui-bus/TechIcons/raw/main/Dark/CSS.svg" alt="css3" width="35" height="35"/></a>
@@ -67,8 +67,3 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0db32290-c193-4b32-95dc-413ce9e446a5" widt width="180" /> &nbsp;
 
 <p>&nbsp;<img height="137px" src="https://github-readme-stats.vercel.app/api?username=emersonlucirio&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonlucirio&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></p>
-
-
-
-
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
