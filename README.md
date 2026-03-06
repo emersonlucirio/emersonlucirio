@@ -60,6 +60,7 @@
 <a href="https://www.postman.com/," target="_blank" rel="noreferrer"><img src="https://github.com/gui-bus/TechIcons/raw/main/Dark/Postman.svg" width="35" height="35"/></a>
 <a href="https://code.visualstudio.com/docs" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" width="35" height="35"/></a>
 <a href="https://code.visualstudio.com/docs" target="_blank" rel="noreferrer"><img src="https://github.com/gui-bus/TechIcons/raw/main/Dark/GIT.svg" width="35" height="35"/></a>
+<a href="https://docs.python.org/3/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" width="35" height="35"/></a>
 
 <a href="https://code.visualstudio.com/docs" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" width="90" height="90"/></a>
 </p>
