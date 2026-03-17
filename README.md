@@ -74,7 +74,7 @@
 <a href="https://code.visualstudio.com/docs" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" width="90" height="90"/></a>
 </p>
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Q5eW84NzVpdmhsb21iaWN5NjdteWQ5Z3dncnNvcTh6anJzZnk5eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vISmwpBJUNYzukTnVx/200.webp" widt width="400"/> &nbsp; &nbsp;
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Q5eW84NzVpdmhsb21iaWN5NjdteWQ5Z3dncnNvcTh6anJzZnk5eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vISmwpBJUNYzukTnVx/200.webp" widt width="260"/> &nbsp; &nbsp;
 
 
 <p>&nbsp;<img height="137px" src="https://github-readme-stats.vercel.app/api?username=emersonlucirio&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,172026,5FCDD9,027373,04BFAD,04BF9D&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonlucirio&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=000&bg_color=0,172026,5FCDD9,027373,04BFAD,04BF9D&theme=graywhite" /></p>
