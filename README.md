@@ -40,8 +40,7 @@
 
 <br>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="100">&nbsp;
-<br>
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bnUxZmJnaXF2emNjc3F0b2lpc2NqancybHN6Y2tpcjhkcTJ3ZmZweSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VEUoOncnj5F31yO3g3/giphy.gif" width="100">&nbsp;
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emersonlucirio&label=Profile%20views&color=05ad75&style=plastic" alt="emersonlucirio" /> </p>
 
 
